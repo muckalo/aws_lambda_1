@@ -1,0 +1,10 @@
+{
+  "Records": [
+    {
+      "body": "{\"first_name\": \"Michael\", \"last_name\": \"Cors\"}"
+    },
+    {
+      "body": "{\"first_name\": \"Ben\", \"last_name\": \"Donald\"}"
+    }
+  ]
+}

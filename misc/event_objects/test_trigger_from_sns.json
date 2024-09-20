@@ -1,0 +1,10 @@
+{
+  "Records": [
+    {
+      "Sns": {
+        "Subject": "Subject 1",
+        "Message": "{\"first_name\": \"Michael\", \"last_name\": \"Cors\"}"
+      }
+    }
+  ]
+}
